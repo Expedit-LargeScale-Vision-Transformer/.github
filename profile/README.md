@@ -5,6 +5,8 @@
 
 ## News
 
+**2023.03.24** Code for [Expedit-DINO](https://github.com/Expedit-LargeScale-Vision-Transformer/Expedit-DINO) is released.
+
 **2023.03.21** Codes for [Expedit-Segmenter](https://github.com/Expedit-LargeScale-Vision-Transformer/Expedit-Segmenter), [Expedit-SWAG](https://github.com/Expedit-LargeScale-Vision-Transformer/Expedit-SWAG), and [Expedit-DPT](https://github.com/Expedit-LargeScale-Vision-Transformer/Expedit-DPT) are released.
 
 **2022.10.03** "Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning" has been released to arXiv. 
