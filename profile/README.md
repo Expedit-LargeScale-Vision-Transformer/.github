@@ -5,6 +5,8 @@
 
 ## News
 
+**2023.04.14** [Demo](https://huggingface.co/spaces/kxqt/Expedit-SAM) for Expedit-SAM is released! Have fun!🍺🍺
+
 **2023.04.13** Code for [Expedit-SAM](https://github.com/Expedit-LargeScale-Vision-Transformer/Expedit-SAM) is released. We elegantly expedite `Segment Anything Model (SAM)` by using our method without any training.
 
 **2023.03.24** Code for [Expedit-DINO](https://github.com/Expedit-LargeScale-Vision-Transformer/Expedit-DINO) is released.
